@@ -1,126 +1,65 @@
-<!-- Header Banner -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D250%26section%3Dheader%26text%3DHi%2520there,%2520I%27m%2520Virat!%2520%25F0%259F%2591%258B%26fontSize%3D50%26animation%3DfadeIn%26fontAlignY%3D38%26desc%3DSoftware%2520Developer%2520%257C%2520ML%2520Enthusiast%26descAlignY%3D55%26descAlign%3D50" alt="Virat Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Virat!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descAlign=50" alt="Virat Gupta Banner" width="100%" />
 </div>
 
-<!-- Typing Animation & Profile Views -->
-
-<div align="center">
-<a href="https://virat-gupta.vercel.app/">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DSoftware%2BDeveloper%3BMachine%2BLearning%2BEnthusiast%3BExploring%2BGenAI%3BProblem%2BSolver" alt="Typing SVG" />
-</a>
-
-
-
-
-
-<p><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dviratguptamce%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dfor-the-badge" alt="Profile Views" /></p>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Software+Developer;Machine+Learning+Enthusiast;Exploring+GenAI;Problem+Solver" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=viratguptamce&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-🚀 A Little About Me
+<hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
 
-I'm a passionate developer bridging the gap between intelligent algorithms and seamless user experiences. Whether it's building scalable web applications or diving deep into machine learning models, I love bringing ideas to life through code.
+<h3 style="color: #e6edf3; border-bottom: 1px solid #21262d; padding-bottom: 0.3em;">🚀 A Little About Me</h3>
 
-🌱 Currently exploring and learning the fascinating world of Generative AI (GenAI)
+<p style="color: #c9d1d9;">I'm a passionate developer bridging the gap between intelligent algorithms and seamless user experiences. Whether it's building scalable web applications or diving deep into machine learning models, I love bringing ideas to life through code.</p>
 
-👨‍💻 Check out my latest projects and work on my portfolio: virat-gupta.vercel.app
+<ul>
+  <li style="margin-bottom: 0.25em;">🌱 Currently exploring and learning the fascinating world of <b>Generative AI (GenAI)</b></li>
+  <li style="margin-bottom: 0.25em;">👨‍💻 My projects are live at: <a href="https://virat-gupta.vercel.app/" style="color: #58a6ff; text-decoration: none;"><b>virat-gupta.vercel.app</b></a></li>
+  <li style="margin-bottom: 0.25em;">🧠 Active in competitive programming and algorithmic problem solving.</li>
+  <li style="margin-bottom: 0.25em;">⚡ <b>Fun Fact:</b> I believe in writing code that is not just functional, but clean and efficient!</li>
+</ul>
 
-🧠 I enjoy participating in competitive programming and solving algorithmic challenges.
+<hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
 
-⚡ Fun Fact: I believe in writing code that is not just functional, but clean and efficient!
+<h3 style="color: #e6edf3; border-bottom: 1px solid #21262d; padding-bottom: 0.3em;">🛠️ Tech Stack & Arsenal</h3>
 
-🛠️ Tech Stack & Arsenal
-
-<details open>
-<summary><b>Languages</b></summary>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
+<details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
+  <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Languages</summary>
+  <p align="left" style="margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  </p>
 </details>
 
-<details open>
-<summary><b>Frontend Development</b></summary>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" title="Next.js"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" title="Tailwind CSS"/>
+<details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
+  <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Frontend & Backend</summary>
+  <p align="left" style="margin-top: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="background-color: white; border-radius: 50%;" /> &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+  </p>
 </details>
 
-<details open>
-<summary><b>Backend & Databases</b></summary>
+<hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
 
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" title="Node.js"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" title="Express.js"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" title="Redis"/>
-</details>
-
-<details open>
-<summary><b>Machine Learning & Data Science</b></summary>
-
-
-
-
-
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" title="PyTorch"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-Learn"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="OpenCV"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-</details>
-
-<details open>
-<summary><b>Tools & Infrastructure</b></summary>
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>
-</details>
-
-📊 GitHub Analytics
-
+<h3 style="color: #e6edf3; border-bottom: 1px solid #21262d; padding-bottom: 0.3em;">📊 GitHub Analytics</h3>
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dviratguptamce%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Virat's GitHub Stats" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dviratguptamce%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117" alt="Virat's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viratguptamce&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viratguptamce&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-📫 Let's Connect
+<hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
 
 <div align="center">
-<a href="https://linkedin.com/in/viratgupta70" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://virat-gupta.vercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-0e75b6%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-<a href="https://www.leetcode.com/viratgupta175" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dwhite" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/gupt_virat" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-1F8ACB%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" alt="Codeforces" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/viratgupta70" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://www.leetcode.com/viratgupta175" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> &nbsp;
+  <a href="https://codeforces.com/profile/gupt_virat" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
