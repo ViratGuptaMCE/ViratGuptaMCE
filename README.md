@@ -18,7 +18,6 @@
   <li style="margin-bottom: 0.25em;">🌱 Currently exploring and learning the fascinating world of <b>Generative AI (GenAI)</b></li>
   <li style="margin-bottom: 0.25em;">👨‍💻 My projects are live at: <a href="https://virat-gupta.vercel.app/" style="color: #58a6ff; text-decoration: none;"><b>virat-gupta.vercel.app</b></a></li>
   <li style="margin-bottom: 0.25em;">🧠 Active in competitive programming and algorithmic problem solving.</li>
-  <li style="margin-bottom: 0.25em;">⚡ <b>Fun Fact:</b> I believe in writing code that is not just functional, but clean and efficient!</li>
 </ul>
 
 <hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
@@ -27,7 +26,7 @@
 
 <details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
   <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Languages</summary>
-  <p align="left" style="margin-top: 10px;">
+  <p align="left" style="margin-top: 10px;display: flex; align-items: center; justify-content: space-around;background-color: white;padding: 10px;border-radius: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /> &nbsp;
@@ -39,12 +38,34 @@
 
 <details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
   <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Frontend & Backend</summary>
-  <p align="left" style="margin-top: 10px;">
+  <p align="left" style="margin-top: 10px;display: flex; align-items: center; justify-content: space-around;background-color: white;padding: 10px;border-radius: 40px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="background-color: white; border-radius: 50%;" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="32" title="Express.js"/>
+  </p>
+</details>
+
+<details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
+  <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Databases & Tools</summary>
+  <p align="left" style="margin-top: 10px;display: flex; align-items: center; justify-content: space-around;background-color: white;padding: 10px;border-radius: 40px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySQL"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" title="Docker"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" title="Redis"/>
+  </p>
+</details>
+
+<details open style="margin-bottom: 1rem; border: 1px solid #30363d; border-radius: 6px; padding: 0.5rem 1rem; background-color: #161b22;">
+  <summary style="cursor: pointer; font-weight: 600; color: #e6edf3;">Machine Learning</summary>
+  <p align="left" style="margin-top: 10px;display: flex; align-items: center; justify-content: space-around;background-color: white;padding: 10px;border-radius: 40px;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" title="TensorFlow"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" title="PyTorch"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" title="Scikit-Learn"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" title="OpenCV"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
   </p>
 </details>
 
@@ -58,7 +79,7 @@
 
 <hr style="background-color: #30363d; height: 1px; border: 0; margin: 24px 0;" />
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 4px;">
   <a href="https://linkedin.com/in/viratgupta70" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
   <a href="https://www.leetcode.com/viratgupta175" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> &nbsp;
   <a href="https://codeforces.com/profile/gupt_virat" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
